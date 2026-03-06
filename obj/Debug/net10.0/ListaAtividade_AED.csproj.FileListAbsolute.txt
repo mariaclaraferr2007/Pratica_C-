@@ -12,3 +12,4 @@ C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\refint\ListaAtividade_
 C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.pdb
 C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.genruntimeconfig.cache
 C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ref\ListaAtividade_AED.dll
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.sourcelink.json
