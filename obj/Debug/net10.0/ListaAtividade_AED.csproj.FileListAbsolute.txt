@@ -1,0 +1,14 @@
+C:\Users\Maria Clara\ListaAtividade_AED\bin\Debug\net10.0\ListaAtividade_AED.exe
+C:\Users\Maria Clara\ListaAtividade_AED\bin\Debug\net10.0\ListaAtividade_AED.deps.json
+C:\Users\Maria Clara\ListaAtividade_AED\bin\Debug\net10.0\ListaAtividade_AED.runtimeconfig.json
+C:\Users\Maria Clara\ListaAtividade_AED\bin\Debug\net10.0\ListaAtividade_AED.dll
+C:\Users\Maria Clara\ListaAtividade_AED\bin\Debug\net10.0\ListaAtividade_AED.pdb
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.AssemblyInfoInputs.cache
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.AssemblyInfo.cs
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.csproj.CoreCompileInputs.cache
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.dll
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\refint\ListaAtividade_AED.dll
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.pdb
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ListaAtividade_AED.genruntimeconfig.cache
+C:\Users\Maria Clara\ListaAtividade_AED\obj\Debug\net10.0\ref\ListaAtividade_AED.dll
