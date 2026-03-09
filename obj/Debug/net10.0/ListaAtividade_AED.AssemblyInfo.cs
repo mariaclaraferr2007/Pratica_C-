@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListaAtividade_AED")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01cd3ae600a89f1b1512e7a32aa79bc84b21afae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a57447766514819e140d5094caecf8e742abaa2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaAtividade_AED")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaAtividade_AED")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
