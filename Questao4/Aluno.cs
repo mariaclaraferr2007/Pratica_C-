@@ -1,14 +1,14 @@
 class Aluno
 {
     // Atributos (privados)
-    private int matricula;
+    private string matricula;
     private string nome;
     private double nota1;
     private double nota2;
     private double nota3;
 
     // Construtor
-    public Aluno(int mat, string nome, double n1, double n2, double n3)
+    public Aluno(string mat, string nome, double n1, double n2, double n3)
     {
         this.matricula = mat;
         this.nome = nome;
@@ -18,7 +18,7 @@ class Aluno
     }
 
     // Retorna matrícula
-    public int GetMatricula()
+    public string GetMatricula()
     {
         return matricula;
     }

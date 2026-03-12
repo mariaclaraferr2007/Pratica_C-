@@ -7,6 +7,7 @@ class Program
         Console.WriteLine("2 - Questão 2");
         Console.WriteLine("3 - Questão 3");
         Console.WriteLine("4 - Questão 4");
+        Console.WriteLine("5 - Questão 5");
 
         int op = int.Parse(Console.ReadLine()!);
 
@@ -18,5 +19,7 @@ class Program
             Questao3.Executar();
         else if (op == 4)
             Questao4.Executar();
+        else if (op == 5)
+            Questao5.Executar();
     }
 }
